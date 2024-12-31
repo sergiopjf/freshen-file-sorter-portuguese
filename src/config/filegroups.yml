@@ -4,7 +4,7 @@
 # category to the data category.
 
 type_sort:
-  audio:
+  Audio:
     - aif
     - cda
     - mid
@@ -17,7 +17,7 @@ type_sort:
     - wpl
     - flac
 
-  archives:
+  Compactados:
     - 7z
     - arj
     - deb
@@ -29,14 +29,14 @@ type_sort:
     - zip
     - gz
 
-  system_images:
+  Imagens_do_sistema:
     - bin
     - dmg
     - iso
     - toast
     - vcd
 
-  data:
+  Dados:
     - dat
     - db
     - dbf
@@ -47,7 +47,7 @@ type_sort:
     - tar
     - xml
 
-  executables:
+  Executaveis:
     - apk
     - bat
     - bin
@@ -60,13 +60,13 @@ type_sort:
     - py
     - wsf
 
-  fonts:
+  Fontes:
     - fnt
     - fon
     - otf
     - ttf
 
-  images:
+  Imagens:
     - ai
     - bmp
     - gif
@@ -80,7 +80,7 @@ type_sort:
     - tif
     - tiff
 
-  web_files:
+  Arquivos_web:
     - asp
     - aspx
     - cer
@@ -95,14 +95,14 @@ type_sort:
     - rss
     - xhtml
 
-  presentation:
+  Apresentacoes:
     - key
     - odp
     - pps
     - ppt
     - pptx
 
-  programming:
+  Programacao:
     - c
     - class
     - cpp
@@ -111,14 +111,14 @@ type_sort:
     - java
     - swift
 
-  spreadsheets:
+  PLanilhas:
     - ods
     - xlr
     - xls
     - xlsx
     - csv
 
-  system_files:
+  Arquivos__do_sistema:
     - bak
     - cab
     - cfg
@@ -135,7 +135,7 @@ type_sort:
     - sys
     - tmp
 
-  videos:
+  Videos:
     - 3g2
     - 3gp
     - avi
@@ -152,7 +152,7 @@ type_sort:
     - vob
     - wmv
 
-  documents:
+  Documentos:
     - doc
     - docx
     - odt
@@ -164,7 +164,7 @@ type_sort:
     - wps
     - wpd
 
-  shortcuts:
+  Atalhos:
     - url
 
 size_sort:
