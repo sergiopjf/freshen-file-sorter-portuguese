@@ -3,176 +3,163 @@
 # For example, you may want to move .csv from the spreadsheet
 # category to the data category.
 
-type_sort:
-  Audio:
-    - aif
-    - cda
-    - mid
-    - midi
-    - mp3
-    - mpa
-    - ogg
-    - wav
-    - wma
-    - wpl
-    - flac
+Audio:
+  - aif
+  - cda
+  - mid
+  - midi
+  - mp3
+  - mpa
+  - ogg
+  - wav
+  - wma
+  - wpl
 
-  Compactados:
-    - 7z
-    - arj
-    - deb
-    - pkg
-    - rar
-    - rpm
-    - tar.gz
-    - z
-    - zip
-    - gz
+Compactados:
+  - 7z
+  - arj
+  - deb
+  - pkg
+  - rar
+  - rpm
+  - tar.gz
+  - z
+  - zip
 
-  Imagens_do_sistema:
-    - bin
-    - dmg
-    - iso
-    - toast
-    - vcd
+system_images:
+  - bin
+  - dmg
+  - iso
+  - toast
+  - vcd
 
-  Dados:
-    - dat
-    - db
-    - dbf
-    - log
-    - mdb
-    - sav
-    - sql
-    - tar
-    - xml
+Dados:
+  - dat
+  - db
+  - dbf
+  - log
+  - mdb
+  - sav
+  - sql
+  - tar
+  - xml
 
-  Executaveis:
-    - apk
-    - bat
-    - bin
-    - cgi
-    - pl
-    - com
-    - exe
-    - gadget
-    - jar
-    - py
-    - wsf
+Executaveis:
+  - apk
+  - bat
+  - bin
+  - cgi
+  - pl
+  - com
+  - exe
+  - gadget
+  - jar
+  - py
+  - wsf
 
-  Fontes:
-    - fnt
-    - fon
-    - otf
-    - ttf
+Fontes:
+  - fnt
+  - fon
+  - otf
+  - ttf
 
-  Imagens:
-    - ai
-    - bmp
-    - gif
-    - ico
-    - jpeg
-    - jpg
-    - png
-    - ps
-    - psd
-    - svg
-    - tif
-    - tiff
+Imagens:
+  - ai
+  - bmp
+  - gif
+  - ico
+  - jpeg
+  - jpg
+  - png
+  - ps
+  - psd
+  - svg
+  - tif
+  - tiff
 
-  Arquivos_web:
-    - asp
-    - aspx
-    - cer
-    - cfm
-    - css
-    - htm
-    - html
-    - js
-    - jsp
-    - part
-    - php
-    - rss
-    - xhtml
+web_files:
+  - asp
+  - aspx
+  - cer
+  - cfm
+  - css
+  - htm
+  - html
+  - js
+  - jsp
+  - part
+  - php
+  - rss
+  - xhtml
 
-  Apresentacoes:
-    - key
-    - odp
-    - pps
-    - ppt
-    - pptx
+Apresentacoes:
+  - key
+  - odp
+  - pps
+  - ppt
+  - pptx
 
-  Programacao:
-    - c
-    - class
-    - cpp
-    - cs
-    - h
-    - java
-    - swift
+programming:
+  - c
+  - class
+  - cpp
+  - cs
+  - h
+  - java
+  - swift
 
-  PLanilhas:
-    - ods
-    - xlr
-    - xls
-    - xlsx
-    - csv
+Planilhas:
+  - ods
+  - xlr
+  - xls
+  - xlsx
+  - csv
 
-  Arquivos__do_sistema:
-    - bak
-    - cab
-    - cfg
-    - cpl
-    - cur
-    - dll
-    - dmp
-    - drv
-    - icns
-    - ico
-    - ini
-    - ink
-    - msi
-    - sys
-    - tmp
+system_files:
+  - bak
+  - cab
+  - cfg
+  - cpl
+  - cur
+  - dll
+  - dmp
+  - drv
+  - icns
+  - ico
+  - ini
+  - ink
+  - msi
+  - sys
+  - tmp
 
-  Videos:
-    - 3g2
-    - 3gp
-    - avi
-    - flv
-    - h264
-    - m4v
-    - mkv
-    - mov
-    - mp4
-    - mpg
-    - mpeg
-    - rm
-    - swf
-    - vob
-    - wmv
+Videos:
+  - 3g2
+  - 3gp
+  - avi
+  - flv
+  - h264
+  - m4v
+  - mkv
+  - mov
+  - mp4
+  - mpg
+  - mpeg
+  - rm
+  - swf
+  - vob
+  - wmv
 
-  Documentos:
-    - doc
-    - docx
-    - odt
-    - pdf
-    - rtf
-    - tex
-    - txt
-    - wks
-    - wps
-    - wpd
+Documentos:
+  - doc
+  - docx
+  - odt
+  - pdf
+  - rtf
+  - tex
+  - txt
+  - wks
+  - wps
+  - wpd
 
-  Atalhos:
-    - url
-
-size_sort:
-  Bytes:
-    - 1
-  Kilobytes:
-    - 1000
-  Megabytes:
-    - 1000000
-  Gigabytes:
-    - 1000000000
+Atalhos:
+  - url
